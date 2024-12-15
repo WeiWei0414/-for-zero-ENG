@@ -1,11 +1,11 @@
 # -for-zero-ENG
 將要處理的音檔，跟程式放在同一個資料夾
-這是zero english影片格式專用的腳本的code，\n
-使用方法有幾點要注意\n
-檔名命名須符合規則，\n
-女2s、男2s、中文、慢速版、分解版女、分解版男、女4s、男4s\n
-另外環境必須建置一些東西，首先到vs code\n
-按下ctrl+shift+P，搜尋並選取: Python:Select Interpreter，\n
+這是zero english影片格式專用的腳本的code，
+使用方法有幾點要注意
+檔名命名須符合規則，
+女2s、男2s、中文、慢速版、分解版女、分解版男、女4s、男4s
+另外環境必須建置一些東西，首先到vs code
+按下ctrl+shift+P，搜尋並選取: Python:Select Interpreter，
 ![image](https://github.com/user-attachments/assets/c5d8af0c-0c46-46cd-887f-8814bc514fa6)
 選取全域環境，然後再按windows+R，輸入cmd，進入之後，安裝兩個函式庫
 指令:pip install pydub，pip install ffmpeg
